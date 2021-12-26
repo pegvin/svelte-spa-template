@@ -94,3 +94,14 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+### With [GitHub Pages](https://pages.github.com)
+
+Make sure you have a github account and you've logged into the account.
+
+Then make a [New github repo](https://github.com/new) and name it as follows - `username.github.io` where username is your github username you're using and make sure your repo is public.
+
+Finally, Upload your build files and after a minute goto `username.github.io` where username is your github username.
+
+---
+
+# Thanks
